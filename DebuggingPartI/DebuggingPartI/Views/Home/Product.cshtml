@@ -1,0 +1,43 @@
+﻿@model Product
+
+@{
+    ViewData["Title"] = "Example";
+}
+
+<h1>Example Output</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.ProductID)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.ProductID)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.ProductName)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.ProductName)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.ProductCost)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.ProductCost)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.InventoryOnHand)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.InventoryOnHand)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.ValueOfInventory)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.ValueOfInventory)
+        </dd>
+    </dl>
+</div>

@@ -1,0 +1,51 @@
+﻿@model JobPosting
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Job Posting Data</h1>
+
+<div>
+    <h3>ViewBag.Message</h3>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.JobPostingID)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.JobPostingID)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.JobPostingName)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.JobPostingName)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.MonthlySalary)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.MonthlySalary)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.AnnualSalary)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.AnnualSalary)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.AnnualBonus)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.AnnualBonus)
+        </dd>
+
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.TotalAnnualCompensation)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.TotalAnnualCompensation)
+        </dd>
+    </dl>
+</div>
