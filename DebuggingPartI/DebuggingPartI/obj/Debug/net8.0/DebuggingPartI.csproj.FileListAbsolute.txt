@@ -27,3 +27,33 @@
 /Users/rkh393/Documents/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/DebuggingPartI.pdb
 /Users/rkh393/Documents/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/DebuggingPartI.genruntimeconfig.cache
 /Users/rkh393/Documents/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/ref/DebuggingPartI.dll
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/bin/Debug/net8.0/appsettings.Development.json
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/bin/Debug/net8.0/appsettings.json
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/bin/Debug/net8.0/libman.json
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/bin/Debug/net8.0/DebuggingPartI.staticwebassets.runtime.json
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/bin/Debug/net8.0/DebuggingPartI
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/bin/Debug/net8.0/DebuggingPartI.deps.json
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/bin/Debug/net8.0/DebuggingPartI.runtimeconfig.json
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/bin/Debug/net8.0/DebuggingPartI.dll
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/bin/Debug/net8.0/DebuggingPartI.pdb
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/DebuggingPartI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/DebuggingPartI.AssemblyInfoInputs.cache
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/DebuggingPartI.AssemblyInfo.cs
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/DebuggingPartI.csproj.CoreCompileInputs.cache
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/DebuggingPartI.MvcApplicationPartsAssemblyInfo.cache
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/DebuggingPartI.RazorAssemblyInfo.cache
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/DebuggingPartI.RazorAssemblyInfo.cs
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/DebuggingPartI.sourcelink.json
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/staticwebassets/msbuild.DebuggingPartI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/staticwebassets/msbuild.build.DebuggingPartI.props
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.DebuggingPartI.props
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.DebuggingPartI.props
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/scopedcss/bundle/DebuggingPartI.styles.css
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/DebuggingPartI.dll
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/refint/DebuggingPartI.dll
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/DebuggingPartI.pdb
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/DebuggingPartI.genruntimeconfig.cache
+/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/Debug/net8.0/ref/DebuggingPartI.dll

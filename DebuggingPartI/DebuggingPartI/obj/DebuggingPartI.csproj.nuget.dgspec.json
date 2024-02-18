@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rkh393/Documents/DebuggingPartI/DebuggingPartI/DebuggingPartI.csproj": {}
+    "/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/DebuggingPartI.csproj": {}
   },
   "projects": {
-    "/Users/rkh393/Documents/DebuggingPartI/DebuggingPartI/DebuggingPartI.csproj": {
+    "/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/DebuggingPartI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rkh393/Documents/DebuggingPartI/DebuggingPartI/DebuggingPartI.csproj",
+        "projectUniqueName": "/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/DebuggingPartI.csproj",
         "projectName": "DebuggingPartI",
-        "projectPath": "/Users/rkh393/Documents/DebuggingPartI/DebuggingPartI/DebuggingPartI.csproj",
+        "projectPath": "/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/DebuggingPartI.csproj",
         "packagesPath": "/Users/rkh393/.nuget/packages/",
-        "outputPath": "/Users/rkh393/Documents/DebuggingPartI/DebuggingPartI/obj/",
+        "outputPath": "/Users/rkh393/Documents/MIS333K Github/DebuggingPartI/DebuggingPartI/DebuggingPartI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rkh393/.nuget/NuGet/NuGet.Config"
